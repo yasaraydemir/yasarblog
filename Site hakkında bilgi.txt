@@ -1,0 +1,11 @@
+Merhabalar hocam
+
+bir önceki siteyi yaparken front end e önem vermiþtik 
+bu sitede ise backend olarak arkada tonla kod calýsýyor ama sitenin front end i bi halta benzemiyor
+bu ödevin asýl amacýnýn back end oldugunu dusundugum için front end ile fazla ugrasmadým
+genel olarak
+admin paneli en cok ugrastýran bölüm oldu
+menü isimlerini deðiþtirip yeni menü isimleri admin panelinden yapýlabiliyor
+ayrýca anasayfadaki bütün makalaleler silinip düzeltilebiliyor ayrýca direk admin panelinden yine yeni bi makale olusturabiliyorsunuz
+yandaki arama butonunada baya uðraþtým çalýþtýrdým ama sonra biþe oldu çalýþmýyor düzeltemedim.
+g
